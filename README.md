@@ -5,4 +5,4 @@
 |:---|:---|:---|:---|
 |2021-Study-Archive|2021년도 하반기에 진행했던 백준 알고리즘 스터디 풀이 아카이브입니다.|jupyter-notebook|종료|
 |My-Team-Note|자주 사용하는 로직들을 정리해놓은 디렉토리입니다.|.py|진행중|
-|2022-Study-Archive|2022년도 알고리즘 스터디 BAlgorithm 아카이브입니다.|.py|진행중|
+|2022-Study-Archive|2022년도 알고리즘 스터디 [BAlgorithm](https://github.com/UMC-KU/Algorithm-B) 아카이브입니다.|.py|진행중|
